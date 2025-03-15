@@ -1,0 +1,15 @@
+.button {
+    color: skyblue;
+    background-color: black;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.sample > p {
+    color: chocolate;
+    background-color: black;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 13px;
+}
